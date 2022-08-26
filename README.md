@@ -1,0 +1,1 @@
+# EdgeImpulse_detection_of_glass_breaking_tinyml_syntiant
